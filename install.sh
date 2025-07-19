@@ -1,0 +1,1 @@
+#!/bin/sh\nset -e\necho "+ Installing dependencies..."\nnpm install\necho "+ Starting development server..."\nnpm run start\n
