@@ -1,0 +1,1 @@
+#!/bin/sh\nset -e\nsh install.sh\necho "App started. Access via your browser as per dev server output."\n
